@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Verbl
+ *
+ */
+module JavaSession {
+}
